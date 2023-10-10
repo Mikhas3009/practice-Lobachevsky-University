@@ -1,0 +1,14 @@
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\task3\obj\Debug\net6.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\task3\obj\Debug\net6.0\task3.AssemblyInfoInputs.cache
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\task3\obj\Debug\net6.0\task3.AssemblyInfo.cs
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\task3\obj\Debug\net6.0\task3.csproj.CoreCompileInputs.cache
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\task3\bin\Debug\net6.0\task3.exe
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\task3\bin\Debug\net6.0\task3.deps.json
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\task3\bin\Debug\net6.0\task3.runtimeconfig.json
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\task3\bin\Debug\net6.0\task3.dll
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\task3\bin\Debug\net6.0\task3.pdb
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\task3\obj\Debug\net6.0\task3.dll
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\task3\obj\Debug\net6.0\refint\task3.dll
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\task3\obj\Debug\net6.0\task3.pdb
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\task3\obj\Debug\net6.0\task3.genruntimeconfig.cache
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\task3\obj\Debug\net6.0\ref\task3.dll
