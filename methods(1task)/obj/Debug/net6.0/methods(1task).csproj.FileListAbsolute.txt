@@ -1,0 +1,14 @@
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\methods(1task)\bin\Debug\net6.0\methods(1task).exe
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\methods(1task)\bin\Debug\net6.0\methods(1task).deps.json
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\methods(1task)\bin\Debug\net6.0\methods(1task).runtimeconfig.json
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\methods(1task)\bin\Debug\net6.0\methods(1task).dll
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\methods(1task)\bin\Debug\net6.0\methods(1task).pdb
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\methods(1task)\obj\Debug\net6.0\methods(1task).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\methods(1task)\obj\Debug\net6.0\methods(1task).AssemblyInfoInputs.cache
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\methods(1task)\obj\Debug\net6.0\methods(1task).AssemblyInfo.cs
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\methods(1task)\obj\Debug\net6.0\methods(1task).csproj.CoreCompileInputs.cache
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\methods(1task)\obj\Debug\net6.0\methods(1task).dll
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\methods(1task)\obj\Debug\net6.0\refint\methods(1task).dll
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\methods(1task)\obj\Debug\net6.0\methods(1task).pdb
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\methods(1task)\obj\Debug\net6.0\methods(1task).genruntimeconfig.cache
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\methods(1task)\obj\Debug\net6.0\ref\methods(1task).dll

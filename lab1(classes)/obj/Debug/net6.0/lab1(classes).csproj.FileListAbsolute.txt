@@ -1,0 +1,14 @@
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\lab1(classes)\bin\Debug\net6.0\lab1(classes).exe
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\lab1(classes)\bin\Debug\net6.0\lab1(classes).deps.json
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\lab1(classes)\bin\Debug\net6.0\lab1(classes).runtimeconfig.json
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\lab1(classes)\bin\Debug\net6.0\lab1(classes).dll
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\lab1(classes)\bin\Debug\net6.0\lab1(classes).pdb
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\lab1(classes)\obj\Debug\net6.0\lab1(classes).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\lab1(classes)\obj\Debug\net6.0\lab1(classes).AssemblyInfoInputs.cache
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\lab1(classes)\obj\Debug\net6.0\lab1(classes).AssemblyInfo.cs
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\lab1(classes)\obj\Debug\net6.0\lab1(classes).csproj.CoreCompileInputs.cache
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\lab1(classes)\obj\Debug\net6.0\lab1(classes).dll
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\lab1(classes)\obj\Debug\net6.0\refint\lab1(classes).dll
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\lab1(classes)\obj\Debug\net6.0\lab1(classes).pdb
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\lab1(classes)\obj\Debug\net6.0\lab1(classes).genruntimeconfig.cache
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\lab1(classes)\obj\Debug\net6.0\ref\lab1(classes).dll
