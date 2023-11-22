@@ -1,0 +1,19 @@
+{
+  "skladSize": 10,
+  "couriers": [
+    {
+      "fio": "Jane Doe",
+      "status": "free",
+      "id": "1",
+      "expirience": "1"
+    }
+  ],
+  "bakers": [
+    {
+      "fio": "Noone",
+      "status": "free",
+      "id": "1",
+      "expirience": "1"
+    }
+  ]
+}
