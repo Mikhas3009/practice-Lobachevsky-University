@@ -1,0 +1,14 @@
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\nasledovanie(1)\bin\Debug\net6.0\nasledovanie(1).exe
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\nasledovanie(1)\bin\Debug\net6.0\nasledovanie(1).deps.json
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\nasledovanie(1)\bin\Debug\net6.0\nasledovanie(1).runtimeconfig.json
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\nasledovanie(1)\bin\Debug\net6.0\nasledovanie(1).dll
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\nasledovanie(1)\bin\Debug\net6.0\nasledovanie(1).pdb
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\nasledovanie(1)\obj\Debug\net6.0\nasledovanie(1).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\nasledovanie(1)\obj\Debug\net6.0\nasledovanie(1).AssemblyInfoInputs.cache
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\nasledovanie(1)\obj\Debug\net6.0\nasledovanie(1).AssemblyInfo.cs
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\nasledovanie(1)\obj\Debug\net6.0\nasledovanie(1).csproj.CoreCompileInputs.cache
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\nasledovanie(1)\obj\Debug\net6.0\nasledovanie(1).dll
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\nasledovanie(1)\obj\Debug\net6.0\refint\nasledovanie(1).dll
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\nasledovanie(1)\obj\Debug\net6.0\nasledovanie(1).pdb
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\nasledovanie(1)\obj\Debug\net6.0\nasledovanie(1).genruntimeconfig.cache
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\nasledovanie(1)\obj\Debug\net6.0\ref\nasledovanie(1).dll

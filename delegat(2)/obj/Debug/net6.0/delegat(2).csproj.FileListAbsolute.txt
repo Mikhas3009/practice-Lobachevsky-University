@@ -1,0 +1,14 @@
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\delegat(2)\bin\Debug\net6.0\delegat(2).exe
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\delegat(2)\bin\Debug\net6.0\delegat(2).deps.json
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\delegat(2)\bin\Debug\net6.0\delegat(2).runtimeconfig.json
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\delegat(2)\bin\Debug\net6.0\delegat(2).dll
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\delegat(2)\bin\Debug\net6.0\delegat(2).pdb
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\delegat(2)\obj\Debug\net6.0\delegat(2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\delegat(2)\obj\Debug\net6.0\delegat(2).AssemblyInfoInputs.cache
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\delegat(2)\obj\Debug\net6.0\delegat(2).AssemblyInfo.cs
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\delegat(2)\obj\Debug\net6.0\delegat(2).csproj.CoreCompileInputs.cache
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\delegat(2)\obj\Debug\net6.0\delegat(2).dll
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\delegat(2)\obj\Debug\net6.0\refint\delegat(2).dll
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\delegat(2)\obj\Debug\net6.0\delegat(2).pdb
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\delegat(2)\obj\Debug\net6.0\delegat(2).genruntimeconfig.cache
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\с#\2 дз\delegat(2)\obj\Debug\net6.0\ref\delegat(2).dll
